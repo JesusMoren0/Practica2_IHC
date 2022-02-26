@@ -8,7 +8,7 @@ public class Problema1 : MonoBehaviour
     void Start()
     {
         int i,j,indi;
-        int[] num = new int[]{4,9,8,1,2,7};
+        int[] num = new int[]{11,9,8,1,2,7};
         int[]t;
         t = Array(num.Length);
         for(i = 0; x < num.Length ; i++)
